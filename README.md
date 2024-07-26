@@ -1,7 +1,7 @@
 # FomoFactoryAssessment
 CryptoFetcher , a tool to fetch Live CryptoData from LiveCoinWatch API with polling &amp; scheduling.
 
-TO run this Project
+To run this Project
 
 Place api-key  , mongo server url in resource-> application.properties
 
